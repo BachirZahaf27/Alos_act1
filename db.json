@@ -1,0 +1,705 @@
+{
+    "newspapers":
+    [
+        {
+            "id": 1,
+            "name": "cityam",
+            "website": "https://www.cityam.com/",
+            "address": "https://www.cityam.com/london-must-become-a-world-leader-on-climate-change-action/",
+            "base": ""
+          },
+          {
+            "id": 2,
+            "name": "thetimes",
+            "website": "https://www.thetimes.com/",
+            "address": "https://www.thetimes.co.uk/environment/climate-change",
+            "base": ""
+          },
+          {
+            "id": 3,
+            "name": "theguardian",
+            "website": "https://www.theguardian.com/",
+            "address": "https://www.theguardian.com/environment/climate-crisis",
+            "base": ""
+          },
+          {
+            "id": 4,
+            "name": "the new york times",
+            "website": "https://www.nytimes.com/",
+            "address": "https://www.nytimes.com/international/section/climate",
+            "base": ""
+          },
+          {
+            "id": 5,
+            "name": "latimes",
+            "website": "https://www.latimes.com/",
+            "address": "https://www.latimes.com/environment",
+            "base": ""
+          },
+          {
+            "id": 6,
+            "name": "smh",
+            "website": "https://www.smh.com.au/",
+            "address": "https://www.smh.com.au/environment/climate-change",
+            "base": "https://www.smh.com.au"
+          },
+          {
+            "id": 7,
+            "name": "un",
+            "website": "https://www.un.org/",
+            "address": "https://www.un.org/climatechange",
+            "base": ""
+          },
+          {
+            "id": 8,
+            "name": "bbc",
+            "website": "https://www.bbc.co.uk",
+            "address": "https://www.bbc.co.uk/news/science_and_environment",
+            "base": "https://www.bbc.co.uk"
+          },
+          {
+            "id": 9,
+            "name": "es",
+            "website": "https://www.standard.co.uk",
+            "address": "https://www.standard.co.uk/topic/climate-change",
+            "base": "https://www.standard.co.uk"
+          },
+          {
+            "id": 10,
+            "name": "sun",
+            "website": "https://www.thesun.co.uk/",
+            "address": "https://www.thesun.co.uk/topic/climate-change-environment/",
+            "base": ""
+          },
+          {
+            "id": 11,
+            "name": "dm",
+            "website": "https://www.dailymail.co.uk/",
+            "address": "https://www.dailymail.co.uk/news/climate_change_global_warming/index.html",
+            "base": ""
+          },
+          {
+            "id": 12,
+            "name": "nyp",
+            "website": "https://nypost.com/",
+            "address": "https://nypost.com/tag/climate-change/",
+            "base": ""
+          },
+          {
+            "id": 13,
+            "name": "telegraph",
+            "website": "https://www.telegraph.co.uk/",
+            "address": "https://www.telegraph.co.uk/climate-change",
+            "base": "https://www.telegraph.co.uk/"
+          },
+          {
+            "id": 14,
+            "name": "newspaper14",
+            "website": "https://www.newspaper14.com/",
+            "address": "https://www.newspaper14.com/climate-change",
+            "base": "https://www.newspaper14.com/"
+          },
+          {
+            "id": 15,
+            "name": "newspaper15",
+            "website": "https://www.newspaper15.com/",
+            "address": "https://www.newspaper15.com/climate-change",
+            "base": "https://www.newspaper15.com/"
+          },
+          {
+            "id": 16,
+            "name": "Mjn",
+            "website": "https://www.newspaper16.com/",
+            "address": "https://www.newspaper16.com/climate-change",
+            "base": "https://www.newspaper16.com/"
+          },  
+        {
+            "id": 17,
+            "name": "mancity",
+            "website": "https://www.newspaper17.com/",
+            "address": "https://www.newspaper17.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 18,
+            "name": "nimo",
+            "website": "https://www.newspaper18.com/",
+            "address": "https://www.newspaper18.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 19,
+            "name": "jacknews",
+            "website": "https://www.newspaper19.com/",
+            "address": "https://www.newspaper19.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 20,
+            "name": "Marca",
+            "website": "https://www.newspaper20.com/",
+            "address": "https://www.newspaper20.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 21,
+            "name": "Livestreamfails",
+            "website": "https://www.newspaper21.com/",
+            "address": "https://www.newspaper21.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 22,
+            "name": "ipcc",
+            "website": "https://www.newspaper22.com/",
+            "address": "https://www.newspaper22.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 23,
+            "name": "United Nations Climate Action",
+            "website": "https://www.newspaper23.com/",
+            "address": "https://www.newspaper23.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 24,
+            "name": "National Centers for Environmental Information (NOAA)",
+            "website": "https://www.newspaper24.com/",
+            "address": "https://www.newspaper24.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 25,
+            "name": "Nature Climate Change",
+            "website": "https://www.newspaper25.com/",
+            "address": "https://www.newspaper25.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 26,
+            "name": "Sustainable GW",
+            "website": "https://www.newspaper26.com/",
+            "address": "https://www.newspaper26.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 27,
+            "name": "Arctic News",
+            "website": "https://www.newspaper27.com/",
+            "address": "https://www.newspaper27.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 28,
+            "name": "Climate Science & Policy Watch",
+            "website": "https://www.newspaper28.com/",
+            "address": "https://www.newspaper28.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 29,
+            "name": "DeSmog",
+            "website": "https://www.newspaper29.com/",
+            "address": "https://www.newspaper29.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 30,
+            "name": "“Ask NASA” Climate Blog",
+            "website": "https://www.newspaper30.com/",
+            "address": "https://www.newspaper30.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 31,
+            "name": "Climatelinks",
+            "website": "https://www.newspaper31.com/",
+            "address": "https://www.newspaper31.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 32,
+            "name": "NOAA Climate.gov",
+            "website": "https://www.newspaper32.com/",
+            "address": "https://www.newspaper32.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 33,
+            "name": "newspaper33",
+            "website": "https://www.newspaper33.com/",
+            "address": "https://www.newspaper33.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 34,
+            "name": "newspaper34",
+            "website": "https://www.newspaper34.com/",
+            "address": "https://www.newspaper34.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 35,
+            "name": "newspaper35",
+            "website": "https://www.newspaper35.com/",
+            "address": "https://www.newspaper35.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 36,
+            "name": "AccuWeather Climate Change Center",
+            "website": "https://www.newspaper36.com/",
+            "address": "https://www.newspaper36.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 37,
+            "name": "newspaper37",
+            "website": "https://www.newspaper37.com/",
+            "address": "https://www.newspaper37.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 38,
+            "name": "CleanTechnica",
+            "website": "https://www.newspaper38.com/",
+            "address": "https://www.newspaper38.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 39,
+            "name": "newspaper39",
+            "website": "https://www.newspaper39.com/",
+            "address": "https://www.newspaper39.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 40,
+            "name": "Météo",
+            "website": "https://www.newspaper40.com/",
+            "address": "https://www.newspaper40.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 41,
+            "name": "Climate Central",
+            "website": "https://www.newspaper41.com/",
+            "address": "https://www.newspaper41.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 42,
+            "name": "Climate Home News",
+            "website": "https://www.newspaper42.com/",
+            "address": "https://www.newspaper42.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 43,
+            "name": "Climate Wire",
+            "website": "https://www.newspaper43.com/",
+            "address": "https://www.newspaper43.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 44,
+            "name": "newspaper44",
+            "website": "https://www.newspaper44.com/",
+            "address": "https://www.newspaper44.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 45,
+            "name": "The Daily Climate",
+            "website": "https://www.newspaper45.com/",
+            "address": "https://www.newspaper45.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 46,
+            "name": "Environmental Health News (EHN)",
+            "website": "https://www.newspaper46.com/",
+            "address": "https://www.newspaper46.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 47,
+            "name": "EcoWatch",
+            "website": "https://www.newspaper47.com/",
+            "address": "https://www.newspaper47.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 48,
+            "name": "newspaper48",
+            "website": "https://www.newspaper48.com/",
+            "address": "https://www.newspaper48.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 49,
+            "name": "GreenBiz",
+            "website": "https://www.newspaper49.com/",
+            "address": "https://www.newspaper49.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 50,
+            "name": "Grist",
+            "website": "https://www.newspaper50.com/",
+            "address": "https://www.newspaper50.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 51,
+            "name": "The Guardian’s Climate Change Section",
+            "website": "https://www.newspaper51.com/",
+            "address": "https://www.newspaper51.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 52,
+            "name": "The Hill’s Energy & Environment Section",
+            "website": "https://www.newspaper52.com/",
+            "address": "https://www.newspaper52.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 53,
+            "name": "Hot MessExternal link:open_in_new",
+            "website": "https://www.newspaper53.com/",
+            "address": "https://www.newspaper53.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 54,
+            "name": "InsideClimate News",
+            "website": "https://www.newspaper54.com/",
+            "address": "https://www.newspaper54.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 55,
+            "name": "newspaper55",
+            "website": "https://www.newspaper55.com/",
+            "address": "https://www.newspaper55.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 56,
+            "name": "Live Science’s Climate Section",
+            "website": "https://www.newspaper56.com/",
+            "address": "https://www.newspaper56.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 57,
+            "name": "Mother Jones’ Environment Section",
+            "website": "https://www.newspaper57.com/",
+            "address": "https://www.newspaper57.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 58,
+            "name": "newspaper58",
+            "website": "https://www.newspaper58.com/",
+            "address": "https://www.newspaper58.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 59,
+            "name": "New Scientist’s Climate Change Section",
+            "website": "https://www.newspaper59.com/",
+            "address": "https://www.newspaper59.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 60,
+            "name": "The New York Times’ Climate and Environment Section",
+            "website": "https://www.newspaper60.com/",
+            "address": "https://www.newspaper60.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 61,
+            "name": "NPR’s Science/Environment Section",
+            "website": "https://www.newspaper61.com/",
+            "address": "https://www.newspaper61.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 62,
+            "name": "WWF Climate and Energy Section",
+            "website": "https://www.newspaper62.com/",
+            "address": "https://www.newspaper62.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 63,
+            "name": "Meteorological Organization",
+            "website": "https://www.newspaper63.com/",
+            "address": "https://www.newspaper63.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 64,
+            "name": "newspaper64",
+            "website": "https://www.newspaper64.com/",
+            "address": "https://www.newspaper64.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 65,
+            "name": "Phys.org’s Earth Science Section",
+            "website": "https://www.newspaper65.com/",
+            "address": "https://www.newspaper65.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 66,
+            "name": "Politico’s Energy & Environment Section",
+            "website": "https://www.newspaper66.com/",
+            "address": "https://www.newspaper66.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 67,
+            "name": "newspaper67",
+            "website": "https://www.newspaper67.com/",
+            "address": "https://www.newspaper67.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 68,
+            "name": "Science Focus Magazine’s Climate Change Section",
+            "website": "https://www.newspaper68.com/",
+            "address": "https://www.newspaper68.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 69,
+            "name": "newspaper69",
+            "website": "https://www.newspaper69.com/",
+            "address": "https://www.newspaper69.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 70,
+            "name": "World Meteorological Organization (WMO)External link:",
+            "website": "https://www.newspaper70.com/",
+            "address": "https://www.newspaper70.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 71,
+            "name": "TreeHugger",
+            "website": "https://www.newspaper71.com/",
+            "address": "https://www.newspaper71.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 72,
+            "name": "The Washington Post’s Climate & Environment Section",
+            "website": "https://www.newspaper72.com/",
+            "address": "https://www.newspaper72.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 73,
+            "name": "The Aspen Institute’s Climate Change Section",
+            "website": "https://www.newspaper73.com/",
+            "address": "https://www.newspaper73.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 74,
+            "name": "newspaper74",
+            "website": "https://www.newspaper74.com/",
+            "address": "https://www.newspaper74.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 75,
+            "name": "MC2ES Blog",
+            "website": "https://www.newspaper75.com/",
+            "address": "https://www.newspaper75.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 76,
+            "name": "newspaper76",
+            "website": "https://www.newspaper76.com/",
+            "address": "https://www.newspaper76.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 77,
+            "name": "Climate 411",
+            "website": "https://www.newspaper77.com/",
+            "address": "https://www.newspaper77.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 78,
+            "name": "Climate Communication",
+            "website": "https://www.newspaper78.com/",
+            "address": "https://www.newspaper78.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 79,
+            "name": "Climate Bereau",
+            "website": "https://www.newspaper79.com/",
+            "address": "https://www.newspaper79.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 80,
+            "name": "newspaper80",
+            "website": "https://www.newspaper80.com/",
+            "address": "https://www.newspaper80.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 81,
+            "name": "Climate for Health",
+            "website": "https://www.newspaper81.com/",
+            "address": "https://www.newspaper81.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 82,
+            "name": "newspaper82",
+            "website": "https://www.newspaper82.com/",
+            "address": "https://www.newspaper82.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 83,
+            "name": "Climate Desk-1",
+            "website": "https://www.newspaper83.com/",
+            "address": "https://www.newspaper83.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 84,
+            "name": "My Climate",
+            "website": "https://www.MyClimate.com/",
+            "address": "https://www.MyClimate.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 85,
+            "name": "newspaper85",
+            "website": "https://www.newspaper85.com/",
+            "address": "https://www.newspaper85.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 86,
+            "name": "My Climate Interactive Blog",
+            "website": "https://www.MCIB.com/",
+            "address": "https://www.MCIB.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 87,
+            "name": "newspaper87",
+            "website": "https://www.newspaper87.com/",
+            "address": "https://www.newspaper87.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 88,
+            "name": "Climate Interactive Blog",
+            "website": "https://www.newspaper88.com/",
+            "address": "https://www.newspaper88.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 89,
+            "name": "newspaper89",
+            "website": "https://www.newspaper89.com/",
+            "address": "https://www.newspaper89.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 90,
+            "name": "The Climate Reality Project Blog",
+            "website": "https://www.newspaper90.com/",
+            "address": "https://www.newspaper90.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 91,
+            "name": "Development and a Changing Climate:",
+            "website": "https://www.newspaper91.com/",
+            "address": "https://www.newspaper91.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 92,
+            "name": "The Environmentalist",
+            "website": "https://www.newspaper92.com/",
+            "address": "https://www.newspaper92.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 93,
+            "name": "The Equation",
+            "website": "https://www.newspaper93.com/",
+            "address": "https://www.newspaper93.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 94,
+            "name": "EWG News and Analysis",
+            "website": "https://www.newspaper94.com/",
+            "address": "https://www.newspaper94.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 95,
+            "name": "Intergovernmental Panel on Climate Change",
+            "website": "https://www.newspaper95.com/",
+            "address": "https://www.newspaper95.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 96,
+            "name": "NRDC Expert Blog",
+            "website": "https://www.newspaper96.com/",
+            "address": "https://www.newspaper96.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 97,
+            "name": "Science News Earth & Climate Section",
+            "website": "https://www.newspaper97.com/",
+            "address": "https://www.newspaper97.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 98,
+            "name": "The RAND Blog: Global Climate Change",
+            "website": "https://www.newspaper98.com/",
+            "address": "https://www.newspaper98.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 99,
+            "name": "SEJ’s EJToday",
+            "website": "https://www.newspaper99.com/",
+            "address": "https://www.newspaper99.com/environment/climate-change/",
+            "base": null
+        },
+        {
+            "id": 100,
+            "name": "Smithsonian Magazine’s Climate Change SectionExternal link:",
+            "website": "https://www.newspaper100.com/",
+            "address": "https://www.newspaper100.com/environment/climate-change/",
+            "base": null
+        }
+    ]
+}
