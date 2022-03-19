@@ -1,0 +1,110 @@
+{
+  "newspapers": [
+    {
+      "id": 1,
+      "name": "cityam",
+      "website": "https://www.cityam.com/",
+      "address": "https://www.cityam.com/london-must-become-a-world-leader-on-climate-change-action/",
+      "base": ""
+    },
+    {
+      "id": 2,
+      "name": "thetimes",
+      "website": "https://www.thetimes.com/",
+      "address": "https://www.thetimes.co.uk/environment/climate-change",
+      "base": ""
+    },
+    {
+      "id": 3,
+      "name": "theguardian",
+      "website": "https://www.theguardian.com/",
+      "address": "https://www.theguardian.com/environment/climate-crisis",
+      "base": ""
+    },
+    {
+      "id": 4,
+      "name": "the new york times",
+      "website": "https://www.nytimes.com/",
+      "address": "https://www.nytimes.com/international/section/climate",
+      "base": ""
+    },
+    {
+      "id": 5,
+      "name": "latimes",
+      "website": "https://www.latimes.com/",
+      "address": "https://www.latimes.com/environment",
+      "base": ""
+    },
+    {
+      "id": 6,
+      "name": "smh",
+      "website": "https://www.smh.com.au/",
+      "address": "https://www.smh.com.au/environment/climate-change",
+      "base": "https://www.smh.com.au"
+    },
+    {
+      "id": 7,
+      "name": "un",
+      "website": "https://www.un.org/",
+      "address": "https://www.un.org/climatechange",
+      "base": ""
+    },
+    {
+      "id": 8,
+      "name": "bbc",
+      "website": "https://www.bbc.co.uk",
+      "address": "https://www.bbc.co.uk/news/science_and_environment",
+      "base": "https://www.bbc.co.uk"
+    },
+    {
+      "id": 9,
+      "name": "es",
+      "website": "https://www.standard.co.uk",
+      "address": "https://www.standard.co.uk/topic/climate-change",
+      "base": "https://www.standard.co.uk"
+    },
+    {
+      "id": 10,
+      "name": "sun",
+      "website": "https://www.thesun.co.uk/",
+      "address": "https://www.thesun.co.uk/topic/climate-change-environment/",
+      "base": ""
+    },
+    {
+      "id": 11,
+      "name": "dm",
+      "website": "https://www.dailymail.co.uk/",
+      "address": "https://www.dailymail.co.uk/news/climate_change_global_warming/index.html",
+      "base": ""
+    },
+    {
+      "id": 12,
+      "name": "nyp",
+      "website": "https://nypost.com/",
+      "address": "https://nypost.com/tag/climate-change/",
+      "base": ""
+    },
+    {
+      "id": 13,
+      "name": "telegraph",
+      "website": "https://www.telegraph.co.uk/",
+      "address": "https://www.telegraph.co.uk/climate-change",
+      "base": "https://www.telegraph.co.uk/"
+    },
+    {
+      "id": 14,
+      "name": "newspaper14",
+      "website": "https://www.newspaper14.com/"
+    },
+    {
+      "id": 15,
+      "name": "newspaper15",
+      "website": "https://www.newspaper15.com/"
+    },
+    {
+      "id": 16,
+      "name": "Mjjj",
+      "website": "https://www.newspaper16.com/"
+    }
+  ]
+}
