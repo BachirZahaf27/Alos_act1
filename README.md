@@ -3,7 +3,7 @@
 
 - To access this part of the api check this link:
   
-      https://my-json-server.typicode.com/BachirZahaf27/Activite-01
+      https://my-json-server.typicode.com/BachirZahaf27/Alos_act1
     
 1) To see only the first 10 values we can use this request
 
