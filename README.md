@@ -26,7 +26,7 @@
        https://bachir-zahaf.gitbook.io/live-climate-change-api/
        
        
-repeat(5, 
+		repeat(5, 
        {
 		"id": index(),
   		"sex": choice('male','female'),
@@ -39,5 +39,5 @@ repeat(5,
         }) 
         ]
 
-}      
-)
+	}      
+	)
