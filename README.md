@@ -12,12 +12,15 @@
        
        response.body.filter((newspapers) => newspapers.name.startsWith("M")
        
-
-### II) Progress of the API check this repo:
+### II) Steps to made the Activite-01:
+       
+       https://app.gitbook.com/s/72ne90loNsZWwN0WD79t/reference/api-reference/tools
+       
+### III) Progress of the API check this repositorie:
 
       https://github.com/BachirZahaf27/Live-Climate-Change-API
       
       
-### III) Documentation:
+### IV) Documentation:
 
-      https://bachir-zahaf.gitbook.io/live-climate-change-api/
+       https://bachir-zahaf.gitbook.io/live-climate-change-api/
