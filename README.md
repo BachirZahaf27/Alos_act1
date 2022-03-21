@@ -25,19 +25,4 @@
 
        https://bachir-zahaf.gitbook.io/live-climate-change-api/
        
-       
-		repeat(5, 
-       {
-		"id": index(),
-  		"sex": choice('male','female'),
-  		"age":random(18, 70),
-  		"evidence": [
-        repeat(3,{
-        	"id":choice('s_1193','s_488','s_418'),
-          	"choice":choice('present','absent','unknown'),
-          	
-        }) 
-        ]
 
-	}      
-	)
