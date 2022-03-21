@@ -12,7 +12,7 @@
        
        response.body.filter((newspapers) => newspapers.name.startsWith("M")
        
-### II) Steps to made the Activite-01:
+### II) Tools to made the Activite-01:
        
        https://app.gitbook.com/s/72ne90loNsZWwN0WD79t/reference/api-reference/tools
        
